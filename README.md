@@ -1,6 +1,6 @@
 # Ransomware Detection and Prevention System using AI and ML
 
-![Modern University for Technology & Information Logo](https://i.imgur.com/vHq4g7x.png)
+![Modern University for Technology & Information Logo]([https://i.imgur.com/vHq4g7x.png](https://elearning.mti.edu.eg/assets/2.png))
 
 A cutting-edge cybersecurity solution developed as a graduation project for the Faculty of Computers & Artificial Intelligence at Modern University for Technology & Information. This project presents an advanced Ransomware Detection and Prevention System (RDPS) that implements a comprehensive, two-pronged defense strategy using Artificial Intelligence (AI) and Machine Learning (ML) to identify and combat malicious activity across network and host levels.
 
